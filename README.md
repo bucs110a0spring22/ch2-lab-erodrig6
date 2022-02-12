@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < Using Python data to calculate the cost per class and using random range to pick a random number on a list >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < Was able to complete all parts >
 
 ## REFERENCES:
- < List any outside resources used >
+ < GeekforGeeks >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < N/A >
